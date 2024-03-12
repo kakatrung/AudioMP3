@@ -37,7 +37,7 @@ class ViewController: UIViewController {
     
     func loadSampleData() {
         
-        let title = "The Secret Garden"
+        let title = "The Secret Garden New"
         let albumTitle = "Novel"
         let coverImgUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Houghton_AC85_B9345_911s_-_Secret_Garden%2C_1911_-_cover.jpg/402px-Houghton_AC85_B9345_911s_-_Secret_Garden%2C_1911_-_cover.jpg"
         
