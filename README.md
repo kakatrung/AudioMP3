@@ -1,4 +1,4 @@
-# AQPlayer
+# AQPlayer Nguyen Tai Trung
 
 iOS Audio player :speaker: uses *AVQueuePlayer* 
 
